@@ -19,3 +19,7 @@ Selenium for browser automation.
 This project demonstrates the ability to scrape dynamic, 
 JavaScript-heavy websites where traditional scraping tools 
 (like BeautifulSoup) may not be sufficient.
+
+## Demo Video
+Watch a walkthrough of this project here:
+https://drive.google.com/file/d/1oxyYDIDYY8_OBNLZvrgsN7M8E46eTrsA/view?usp=drive_link
